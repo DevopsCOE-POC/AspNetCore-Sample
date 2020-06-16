@@ -11,7 +11,7 @@
       "newlineAtEndOfFile": "require"
     },
     "indentation": {
-      "indentationSize": 5,
+      "indentationSize": 4,
       "useTabs": false
     },
     "namingRules": {},
